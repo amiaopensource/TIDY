@@ -10,3 +10,4 @@ See the demo at: http://amiaopensource.github.io/TIDY
 A collaboration between Kathryn Gronsbell, Michelle Roell, and Cora
 Johnson-Roberson ("Data Detox, the makers of TIDY!"), as part of
 [AMIA Hack Day 2015](http://wiki.curatecamp.org/index.php/Association_of_Moving_Image_Archivists_&_Digital_Library_Federation_Hack_Day_2015).
+Thanks also to Caleb Sayan for his design suggestions and contributions!
