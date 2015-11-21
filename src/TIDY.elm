@@ -33,7 +33,7 @@ initModel =
 
 initEffects : Effects Action
 initEffects =
-  Http.get decodeClusterFile (Http.url "/clusters_sample.json" [])
+  Http.get decodeClusterFile (Http.url "clusters_sample.json" [])
     |> Task.toMaybe
     |> Task.map LoadClusters
     |> Effects.task
